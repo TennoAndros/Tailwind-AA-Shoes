@@ -1,8 +1,37 @@
-# React + Vite
+# Simple Shoes Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic webpage for displaying shoe products, created as a practice project to learn how to use Tailwind CSS with Vite and React. This project does not have any actual e-commerce functionality but serves as a starting point to get familiar with the Tailwind CSS technology stack.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Vite](https://vitejs.dev/): A fast build tool for modern web development.
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone this repository to your local machine:
+
+```shell
+git clone https://github.com/TennoAndros/Tailwind-AA-Shoes.git
+```
+
+2. Navigate to the project directory:
+
+```shell
+cd Tailwind-AA-Shoes
+```
+
+3. Install project dependencies using npm or yarn:
+
+```shell
+npm install
+```
+
+4. Start the development server:
+
+```shell
+npm run dev
+```
